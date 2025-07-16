@@ -3,4 +3,4 @@ lean git and how it works
 
 # record what I found and learn 
 1. there is a vscode built in on github which they can codespace look and feel is seemless as vscode standalone
-2.
+2. test clone the repo git101 to local pc using vscode 
